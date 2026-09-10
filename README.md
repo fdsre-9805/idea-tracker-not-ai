@@ -1,1 +1,1 @@
-# idea-tracker---not-ai-
+# idea-tracker-not-ai
