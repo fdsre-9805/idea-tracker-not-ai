@@ -16,3 +16,5 @@
 ## Граф веток
 
 https://github.com/fdsre-9805/idea-tracker-not-ai/network
+
+![Граф веток](git-network.png)
