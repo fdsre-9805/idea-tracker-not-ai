@@ -11,3 +11,8 @@
 - README.md — описание проекта
 - project-notes.md — заметки по проекту
 - api-plan.md — план API
+- git-conflict.md — описание конфликта и его исправления
+
+## Граф веток
+
+https://github.com/fdsre-9805/idea-tracker-not-ai/network
